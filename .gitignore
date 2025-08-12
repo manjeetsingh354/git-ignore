@@ -1,0 +1,3 @@
+*.css  // Stylesheets
+app.js  // Main application script
+passwords/*  // Password files
